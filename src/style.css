@@ -1,0 +1,16 @@
+@font-face {
+  font-family:  "Grotesk";
+  font-weght:  400;
+  src: url('./assets/hk-grotesk.woff2');
+}
+
+body {
+  font-family: "Grotesk";
+  padding: 50px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
